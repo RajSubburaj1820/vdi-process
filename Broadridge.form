@@ -1,0 +1,23 @@
+{
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.7.0",
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "c60c336"
+  },
+  "schemaVersion": 18,
+  "id": "broadridge-1f409ga",
+  "components": [
+    {
+      "label": "Text field",
+      "type": "textfield",
+      "layout": {
+        "row": "Row_0ji0621",
+        "columns": null
+      },
+      "id": "Field_1o4it93",
+      "key": "textfield_p082s6"
+    }
+  ],
+  "type": "default"
+}
